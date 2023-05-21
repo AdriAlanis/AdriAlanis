@@ -5,17 +5,7 @@ _Estudiante de Ingeniería de Software_
 # De donde soy
 Ciudad de México, México
 
-# Mascota
-![Mi mascota]()
 
 # Link
-[Este es mi perfil de LinkedIn0](https.likedin.com)
-
-# Código
-`git branch`
-
-``` javascript
-let hola = "Hola Mundo";
-console.log(hola);
-```
+[Este es mi perfil de LinkedIn]([https.likedin.com](https://www.linkedin.com/in/adriana-amezcua-alanis-ing-sw/))
 
